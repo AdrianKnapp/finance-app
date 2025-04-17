@@ -38,6 +38,7 @@ class MyApp extends StatelessWidget {
               titleLarge: TextStyle(
                 color: kColorScheme.onSecondaryContainer,
                 fontWeight: FontWeight.bold,
+                fontSize: 16,
               ),
             ),
       ),
